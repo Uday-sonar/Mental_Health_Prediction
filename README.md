@@ -51,7 +51,7 @@ The dataset contains 15 features:
    ```
 
 ### Running the Project
-31. Run the entire interface:
+1. Run the entire interface:
    ```bash
    python Mental_Health_Prediction.py
    ```
